@@ -16,4 +16,4 @@ This is an NCST research report written by Kenneth S. Kurani and Koral Buch.
 
 You can find the full presentation slides under the [presentation](https://github.com/KoralleB/GenderInterestEV/tree/master/presentation) subfolder.
 
-<img src="https://github.com/KoralleB/GenderInterestEV/tree/master/image">
+<img src="https://github.com/KoralleB/GenderInterestEV/blob/master/image/DrivetrainTypeByGender.PNG">
